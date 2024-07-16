@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Just_Pay_String {
+public class Jus_Pay_String {
     public static void main(String[] args) {
         char[] ch = {'j' , 'u' , 's' , 'p' , 'a' , 'y'};
         Scanner sc = new Scanner(System.in);

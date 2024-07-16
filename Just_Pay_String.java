@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Just_Pay_String {
     public static void main(String[] args) {
-        char[] ch = {'j' , 'u' , 's' , 't' , 'p' , 'a' , 'y'};
+        char[] ch = {'j' , 'u' , 's' , 'p' , 'a' , 'y'};
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
         int c = 0 ;
